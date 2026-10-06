@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a Python backend developer's expertise through detailed project case studies, technical insights, and a clean, professional portfolio for recruiters and clients.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
